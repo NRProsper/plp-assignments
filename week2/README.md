@@ -14,14 +14,14 @@ Make any additional adjustments in PyCharm to enhance your development experienc
 
 ![PyCharm Image](img.png)
 
-![PyCharm Image](.\img_1.png)
+![PyCharm Image](img_1.png)
 
 ## Dart and Flutter Development
  * Jetbrains IntelliJ IDE:
 Use Jetbrains IntelliJ IDE for Dart and Flutter development.
  * Install Flutter and Dart extensions in the IDE.
 
-![IntelliJ Image](.\img_2.png)
+![IntelliJ Image](img_2.png)
 
 
 ## MySQL Development
@@ -29,4 +29,4 @@ Use Jetbrains IntelliJ IDE for Dart and Flutter development.
 Containerize your MySQL application using Docker.
 
 * This approach simplifies the setup and management of the database environment.
-  ![IntelliJ Image](.\img_3.png)
+  ![IntelliJ Image](img_3.png)
