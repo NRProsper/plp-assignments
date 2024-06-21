@@ -12,7 +12,7 @@ Configure the IDE settings according to your preferences.
  * Final Adjustments:
 Make any additional adjustments in PyCharm to enhance your development experience.
 
-![PyCharm Image](.\img.png)
+![PyCharm Image](img.png)
 
 ![PyCharm Image](.\img_1.png)
 
